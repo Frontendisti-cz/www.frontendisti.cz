@@ -874,8 +874,8 @@
             image: ataccama_logo1.png
 
 -   id: 26
-    slug: front-end-v-brnenskych-firmach-lightning-talks
-    title: Front-end v brněnských firmách + "lightning talks"
+    slug: frontend-v-brnenskych-firmach-lightning-talks
+    title: Frontend v brněnských firmách + „lightning talks“
     description: >
         Čtvrtek 6.&nbsp;4. 2017, Kiwi.com Brno
     speakers:
