@@ -875,7 +875,7 @@
 
 -   id: 26
     slug: frontend-v-brnenskych-firmach-lightning-talks
-    title: Frontend v brněnských firmách + „lightning talks“
+    title: Frontend v&nbsp;brněnských firmách +&nbsp;„lightning talks“
     description: >
         Čtvrtek 6.&nbsp;4. 2017, Kiwi.com Brno
     speakers:
@@ -952,6 +952,6 @@
 
 -   id: 28
     slug: bem-konecne-spravne-vyhody-a-nevyhody
-    title: BEM konečně správně - výhody a nevýhody
+    title: BEM konečně správně &ndash; výhody a&nbsp;nevýhody
     description: >
         Středa 17.&nbsp;5. 2017, MORAVIO s.r.o. Ostrava
