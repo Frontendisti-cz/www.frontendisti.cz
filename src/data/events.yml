@@ -958,7 +958,7 @@
 
 -   id: 29
     slug: webexpo-photopea-a-microsoft-edge
-    title: WebExpo, Photopea a Microsoft Edge
+    title: WebExpo, Photopea a&nbsp;Microsoft Edge
     description: >
         Středa 11.&nbsp;10. 2017, LMC s.r.o. Praha
     speakers:
@@ -980,7 +980,7 @@
             name_link: https://twitter.com/Dajbych
             company: Microsoft
             company_link: https://www.microsoft.com/cs-cz
-            title: Microsoft Edge – minulost a budoucnost
+            title: Microsoft Edge –&nbsp;minulost a&nbsp;budoucnost
             youtube_id: xvTP6cS1uS0
             image: vaclav-dajbych.jpg
     more_links:
