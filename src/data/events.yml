@@ -1006,6 +1006,7 @@
             company_link: ~
             title: Metriky rychlosti načítání a&nbsp;tipy pro WebpageTest.org
             youtube_id: fR9n_yi050g
+            presentation: https://www.slideshare.net/machal/metriky-rychlosti-natn
             image: martin-michalek.jpg
         -   name: Láďa Prskavec
             name_link: https://twitter.com/abtris
@@ -1013,6 +1014,7 @@
             company_link: https://apiary.io/
             title: JAMstack, moderní architektura pro stavbu webů
             youtube_id: AmdSoR-x7bE
+            presentation: https://www.slideshare.net/ladislavprskavec/how-you-can-kill-wordpress
             image: lada-prskavec.jpg
     more_links:
         -   title: Všechny přednášky v&nbsp;playlistu
